@@ -1,3 +1,6 @@
+> [IKEA ON/Off Switch](https://github.com/RSZEE/rszee.github.io/blob/main/README.md#ikea-tradfri-onoff-switch/)
+> [SUNSET LIGHTS](https://github.com/RSZEE/rszee.github.io#sunset-light/)
+
 ### Ikea Tradfri On/Off Switch
 > NOTE
 > ONLY WORKS WITH IKEA E1743 DEVICES!
