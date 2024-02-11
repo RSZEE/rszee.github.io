@@ -1,8 +1,8 @@
 > [Quick Search]
 
-> [IKEA ON/Off Switch](https://github.com/RSZEE/rszee.github.io/blob/main/README.md#ikea-tradfri-onoff-switch/)
+> [IKEA ON/Off Switch](https://github.com/RSZEE/Home-Assistant-Blueprints/blob/main/IKEA_ON_OFF_BUTTON.yaml)
 
-> [SUNSET LIGHTS](https://github.com/RSZEE/rszee.github.io#sunset-light/)
+> [SUNSET LIGHTS](https://github.com/RSZEE/Home-Assistant-Blueprints/blob/main/sunset.yaml)
 
 ### Ikea Tradfri On/Off Switch
 > NOTE
