@@ -1,6 +1,5 @@
-# Home Assistant Blueprints
 ### Ikea Tradfri On/Off Switch
-> [!NOTE]
+> NOTE
 > ONLY WORKS WITH IKEA E1743 DEVICES!
 
 This blueprints is for control your devices with a E1743 device easily.
