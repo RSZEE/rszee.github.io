@@ -1,3 +1,4 @@
+RSZEE's Blueprints
 ### Ikea Tradfri On/Off Switch
 > NOTE
 > ONLY WORKS WITH IKEA E1743 DEVICES!
@@ -41,3 +42,21 @@ This blueprints is for controlling your devices with a E1812 devices easily.
 This blueprint is for controlling devices at a certain time.
 
 [![Open your Home Assistant instance and show the blueprint import dialog with a specific blueprint pre-filled.](https://my.home-assistant.io/badges/blueprint_import.svg)](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fgithub.com%2FRSZEE%2FHome-Assistant-Blueprints%2Fblob%2Fmain%2Ftimed_actions.yaml)
+
+### Action On No Motion
+> [Note]
+> Only On No Motion
+
+This blueprint is for doing actions on no motion.
+
+[![Open your Home Assistant instance and show the blueprint import dialog with a specific blueprint pre-filled.](https://my.home-assistant.io/badges/blueprint_import.svg)](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fgithub.com%2FRSZEE%2FHome-Assistant-Blueprints%2Fblob%2Fmain%2Fmotion_on_clear.yaml)
+
+### Action On No Motion
+> [Note]
+> Only On Moiton
+
+This blueprint is for doing actions on motion.
+
+[![Open your Home Assistant instance and show the blueprint import dialog with a specific blueprint pre-filled.](https://my.home-assistant.io/badges/blueprint_import.svg)](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fgithub.com%2FRSZEE%2FHome-Assistant-Blueprints%2Fblob%2Fmain%2Fmotion_on_detection.yaml)
+
+
